@@ -1,0 +1,13 @@
+name = "Kambrik"
+filename = "Kambrik-7.0.0+1.20.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zfbCkvdZ/versions/SVCm637o/Kambrik-7.0.0%2B1.20.4-fabric.jar"
+hash-format = "sha1"
+hash = "7c4d8a24cc0c3a38d6144936c8f4bfe1347af91e"
+
+[update]
+[update.modrinth]
+mod-id = "zfbCkvdZ"
+version = "SVCm637o"

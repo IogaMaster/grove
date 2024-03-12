@@ -81,6 +81,11 @@ hash = "3d62c8c7fb41d2d932b3da7ebf4aababa94e93ef99005a402e171bef09013389"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "919e0f9bdf11b4960591cef1f0cb7fe6bb8bbf21135b423c0d014b00b4a06cb8"
 metafile = true
@@ -158,4 +163,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/miniature-shader.pw.toml"
+hash = "b2188767c6da26e64303cdfaca237ee57f776b85f2e6f65ba1c4d2c63a4ed78b"
 metafile = true

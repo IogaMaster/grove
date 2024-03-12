@@ -1,0 +1,13 @@
+name = "Miniature Shader"
+filename = "miniature-shader-2.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UaS8ROxa/versions/PVKowrKM/miniature-shader-2.8.zip"
+hash-format = "sha1"
+hash = "da924de957bfa3e9a309eae30ee10e37c5c14478"
+
+[update]
+[update.modrinth]
+mod-id = "UaS8ROxa"
+version = "PVKowrKM"
